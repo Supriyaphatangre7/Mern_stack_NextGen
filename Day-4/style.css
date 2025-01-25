@@ -1,0 +1,85 @@
+.parentbox
+{
+  background-color: rgb(246, 243, 243);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+
+}
+
+.box1{
+    
+    width: 200px;
+    height: 330px;
+    background-color: rgb(3, 52, 3);
+    margin: 15px;
+    padding: 10px;
+}
+
+para{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+  
+
+}
+
+p{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    
+}
+
+.btn{
+    color: rgb(10, 11, 11);
+    background-color: rgb(232, 230, 234);
+    border-radius: 20px;
+   
+}
+
+
+.boxitem1
+{
+    width: 800px;
+    height: 200px;
+    background-color: orange;
+}
+
+
+.boxitem2
+{
+    width: 800px;
+    height: 200px;
+    background-color:white;
+}
+
+
+
+.boxitem3
+{
+    width: 800px;
+    height: 200px;
+    background-color: green;
+}
+
+
+.bx1{
+    background-color: red;
+}
+
+.bx2{
+    background-color:green;
+}
+
+.bx3{
+    background-color:blue;
+}
+
+.bx2{
+    background-color:yellow;
+}
+
+
+  
+ 
